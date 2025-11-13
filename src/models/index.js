@@ -1,4 +1,4 @@
-const registrationModel = require('./Registration');
+const registrationModel = require('./registration');
 
 module.exports = {
   registrationModel,
